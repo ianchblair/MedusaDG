@@ -60,7 +60,8 @@ stays within the capacity of the on board regulator.  Failure to do this will re
 terminal damage to your Arduino.**
 
 Pins defined as inputs are active low.  That is to say that they are pulled up by an 
-internal resistor. The input switch should connect the pin to 0 Volts.
+internal resistor. The input switch should connect the pin to 0 Volts. This also suits Grove field effect detectors.
+Other Grove modules might require signal level inversion.
 
 Pins defined as outputs are active high.  They will source current to (say) an LED. It is 
 important that a suitable current limiting resistor is fitted between the pin and the LED 
@@ -87,7 +88,6 @@ cbusdefs.h   |*Definition of CBUS codes*
 CBUSParams.h   |*Manage CBUS parameters*
 CBUSSwitch.h   |*library compatibility*
 CBUSLED.h      |*library compatibility*
-TBA.h            |*Sound player library*
 
 ### Application Configuration
 

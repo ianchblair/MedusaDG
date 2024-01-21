@@ -171,8 +171,6 @@ This character will reboot the module.
 #### 'm'
 This character will return the amount of free memory. 
 
-#### 't'
-This character triggers a sound player test (one play of track 1)
  
  
  

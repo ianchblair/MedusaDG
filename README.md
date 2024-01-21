@@ -1,14 +1,10 @@
 # MedusaDG
 MedusaDG - Code for CBUSmedusa based on Duncan Greenwood CBUS Library.
-A placeholder for further development. Currently CBUSnINmOUT covers most of the rquired functionality
+A placeholder for further development. 
+
+Currently CBUSnINmOUT covers most, if not all, of the rquired functionality
 
 <img align="right" src="arduino_cbus_logo.png"  width="150" height="75">
-
-# CANsoundb
-
-An Arduino program to run the DF Mini sound player under commands from MERG CBUS.
-Based on Duncan Greenwood's library, and Davy Dick and David Thomas's original concept.
-**** This version is a draft and not for wider availability yet ****
 
 Key Features:
 - Based on CANmInnOut (Duncan Greenwwod et al)

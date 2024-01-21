@@ -49,7 +49,7 @@ WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A 
 
 ## Hardware
 
-Medusa is based in the use of an Arduino Uno, a MERG kit 119, and a Grove shield
+Medusa is based in the use of an Arduino Uno, a MERG kit 110, and a Grove shield
 
 Kit 110 requires five Arduino pins to be allocated. Three of these are fixed
 in the architecture of the Arduino processor, the other two are for chip select and interrupt, and are set by the hardware
